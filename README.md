@@ -1,10 +1,5 @@
-Certainly! Writing a compelling repository description on GitHub is crucial for users to understand what your project is about. Here's a sample description for your GitHub repository:
 
----
-
-**Repository Name: [Your Repository Name]**
-
-**Description:**
+Description:
 Welcome to my "Is it New Year?" web application! 🎉
 
 Overview:
